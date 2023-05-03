@@ -1,4 +1,4 @@
-let pessoaCandidata = "reprovad"
+let pessoaCandidata;
 switch(pessoaCandidata){
     case "aprovada":
             console.log("Parabéns, você está no grupo de pessoas aprovadas!");
