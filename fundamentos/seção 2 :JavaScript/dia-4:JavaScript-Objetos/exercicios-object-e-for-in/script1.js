@@ -10,6 +10,7 @@ let leitor = {
       },
     ],
   };
+        // Adicionando um novo livro favorito no array
     leitor.livrosFavoritos.push([{
         titulo: 'Harry Potter e o Prisioneiro de Azkaban',
         autor: 'JK Rowling',
