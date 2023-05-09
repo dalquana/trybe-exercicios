@@ -21,6 +21,6 @@ let student1 = {
   }
   console.log('Estudante 1');
   skills(student1)
-console.log('------------');
+  console.log('------------');
   console.log('Estudante 2');
   skills(student2)
