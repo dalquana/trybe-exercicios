@@ -22,5 +22,5 @@ Bloco 4: Introdução à JavaScript e lógica de programação
 (x)4-2: JavaScript - Array e loop For
 (x)4-3: JavaScript - Lógica de programação e algoritmos
 (x)4-4: JavaScript - Objetos e funções
-()4-5: JavaScript ES6 - let, const, arrow functions e template literals
-()4-5: Projeto - Funções do playground
+(x)4-5: JavaScript ES6 - let, const, arrow functions e template literals
+(x)4-5: Projeto - Funções do playground
