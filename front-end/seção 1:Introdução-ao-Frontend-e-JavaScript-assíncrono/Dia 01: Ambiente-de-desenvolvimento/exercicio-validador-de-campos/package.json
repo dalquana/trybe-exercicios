@@ -1,0 +1,24 @@
+{
+  "name": "trybe-exercicios",
+  "version": "1.0.0",
+  "description": "validar campos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalquana/trybe-exercicios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalquana/trybe-exercicios/issues"
+  },
+  "homepage": "https://github.com/dalquana/trybe-exercicios#readme",
+  "dependencies": {
+    "validator": "^13.9.0",
+    "vite": "^4.3.9"
+  }
+}
